@@ -1,0 +1,7 @@
+osmnx
+networkx
+requests
+pandas
+folium
+python-dotenv
+jupyter
